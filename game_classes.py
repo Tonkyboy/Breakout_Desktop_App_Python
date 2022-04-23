@@ -7,3 +7,6 @@ class GameClass():
     def start(self):
         pass
 
+    def end(self):
+        pass
+
